@@ -29,9 +29,6 @@ analog-clock/
 ├── clock-style.css # Styles for clock face and hands
 ├── clock.js # JavaScript for time logic and animations
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -49,13 +46,10 @@ Edit
    ```bash
    git clone https://github.com/your-username/analog-clock.git
    cd analog-clock
-Open clock.html in your browser:
 
-bash
-Copy
-Edit
 open clock.html
 # or simply double-click the file
+
 That's it! You'll see the analog clock running and updating every second.
 
 🧠 How It Works
