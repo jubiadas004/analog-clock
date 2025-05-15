@@ -46,9 +46,7 @@ analog-clock/
    ```bash
    git clone https://github.com/your-username/analog-clock.git
    cd analog-clock
-
-open clock.html
-# or simply double-click the file
+   open clock.html
 
 That's it! You'll see the analog clock running and updating every second.
 
