@@ -46,6 +46,7 @@ analog-clock/
    ```bash
    git clone https://github.com/your-username/analog-clock.git
    cd analog-clock
+   code clock.html
 
 2. Open clock.html
 
