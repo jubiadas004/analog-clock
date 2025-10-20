@@ -4,6 +4,11 @@ A simple and visually appealing analog clock built using **HTML**, **CSS**, and 
 
 ---
 
+## 🌐 Live Demo  
+👉 [Click here to view the live clock](https://jubiadas004.github.io/web-portfolio/clock/clock.html)
+
+---
+
 ## 📸 Demo
 
 ![Analog Clock Screenshot](screenshot.png)  
@@ -13,11 +18,11 @@ A simple and visually appealing analog clock built using **HTML**, **CSS**, and 
 
 ## 🚀 Features
 
-- Real-time analog clock
-- Rotating hour, minute, and second hands
-- Tick marks representing hours
-- Center dot for aesthetic finish
-- Smooth updates every second
+- Real-time analog clock  
+- Rotating hour, minute, and second hands  
+- Tick marks representing hours  
+- Center dot for aesthetic finish  
+- Smooth updates every second  
 
 ---
 
@@ -29,14 +34,13 @@ analog-clock/
 ├── clock-style.css # Styles for clock face and hands
 ├── clock.js # JavaScript for time logic and animations
 
-
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the clock
-- **CSS3** – Styling and layout
-- **JavaScript** – Logic to calculate and rotate the clock hands
+- **HTML5** – Structure of the clock  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Logic to calculate and rotate the clock hands  
 
 ---
 
@@ -47,25 +51,3 @@ analog-clock/
    git clone https://github.com/your-username/analog-clock.git
    cd analog-clock
    code clock.html
-
-2. Open clock.html
-
-That's it! You'll see the analog clock running and updating every second.
-
-🧠 How It Works
-The clock hands are updated every second using setInterval().
-
-The current time is retrieved using new Date().
-
-Angles are calculated:
-
-Hours: 30° × hours + 0.5° × minutes
-
-Minutes: 6° × minutes + 0.1° × seconds
-
-Seconds: 6° × seconds
-
-CSS transforms rotate the elements accordingly.
-
-🤝 Contributing
-Contributions are welcome! If you have improvements or new features in mind, feel free to open an issue or submit a pull request.
