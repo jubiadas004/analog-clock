@@ -28,7 +28,11 @@ A simple and visually appealing analog clock built using **HTML**, **CSS**, and 
 
 ## 📁 Project Structure
 
-analog-clock/ │ ├── clock.html # Main HTML file ├── clock-style.css # Styles for clock face and hands ├── clock.js # JavaScript for time logic and animations
+analog-clock/
+│
+├── clock.html # Main HTML file
+├── clock-style.css # Styles for clock face and hands
+├── clock.js # JavaScript for time logic and animations
 
 ---
 
