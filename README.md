@@ -9,13 +9,6 @@ A simple and visually appealing analog clock built using **HTML**, **CSS**, and 
 
 ---
 
-## 📸 Demo
-
-![Analog Clock Screenshot](screenshot.png)  
-*Live clock with rotating hour, minute, and second hands.*
-
----
-
 ## 🚀 Features
 
 - Real-time analog clock  
